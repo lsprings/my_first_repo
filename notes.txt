@@ -6,3 +6,6 @@ Part 2: Create a new repostory from the command line
 
 Part 3: Tracking changes with git
 * this is what we are working on now
+
+Part 4: Exploring history
+* this is a rando exerise we're doing
